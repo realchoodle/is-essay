@@ -1,10 +1,10 @@
 # Readme File
 
-This repository houses my IS paper. The most relevant file extensions are:
+This repository houses my IS paper. The most important files are:
 
-- `.pdf`, which contains the rendered PDF file.
-- `.tex`, which is the raw LaTeX code.
-- `.bib`, which contains my BibLaTeX bibliography.
+- `is-essay.pdf`, which is the rendered PDF file.
+- `is-essay.tex`, which is the raw LaTeX code.
+- `bib.bib`, which is my BibLaTeX bibliography.
 
 ## License
 
