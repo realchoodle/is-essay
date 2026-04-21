@@ -12,7 +12,8 @@ files because they are not a plain text format. However, they do work nicely
 for `.tex` files. In case the files in this repository get too messy, I have
 linked directly to the downloadable PDF file below.
 
-**PDF File:** https://github.com/realchoodle/is-essay/blob/main/is-essay.pdf
+> [!TIP] Link to PDF File
+> https://github.com/realchoodle/is-essay/blob/main/is-essay.pdf
 
 ## License
 
