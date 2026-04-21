@@ -1,0 +1,186 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{hanSwarm2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f30ce431d6fe4c3fdbfa0e9f9f8e316f}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Byung-Chul},
+           giveni={B\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT P}%
+      }
+      \strng{namehash}{f30ce431d6fe4c3fdbfa0e9f9f8e316f}
+      \strng{fullhash}{f30ce431d6fe4c3fdbfa0e9f9f8e316f}
+      \strng{fullhashraw}{f30ce431d6fe4c3fdbfa0e9f9f8e316f}
+      \strng{bibnamehash}{f30ce431d6fe4c3fdbfa0e9f9f8e316f}
+      \strng{authorbibnamehash}{f30ce431d6fe4c3fdbfa0e9f9f8e316f}
+      \strng{authornamehash}{f30ce431d6fe4c3fdbfa0e9f9f8e316f}
+      \strng{authorfullhash}{f30ce431d6fe4c3fdbfa0e9f9f8e316f}
+      \strng{authorfullhashraw}{f30ce431d6fe4c3fdbfa0e9f9f8e316f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A prominent German thinker argues that—contrary to “Twitter Revolution” cheerleading—digital communication is destroying political discourse and political action. The shitstorm represents an authentic phenomenon of digital communication. —from In the Swarm Digital communication and social media have taken over our lives. In this contrarian reflection on digitized life, Byung-Chul Han counters the cheerleaders for Twitter revolutions and Facebook activism by arguing that digital communication is in fact responsible for the disintegration of community and public space and is slowly eroding any possibility for real political action and meaningful political discourse. In the predigital, analog era, by the time an angry letter to the editor had been composed, mailed, and received, the immediate agitation had passed. Today, digital communication enables instantaneous, impulsive reaction, meant to express and stir up outrage on the spot. “The shitstorm,” writes Han, ”represents an authentic phenomenon of digital communication.” Meanwhile, the public, the senders and receivers of these communications have become a digital swarm—not a mass, or a crowd, or Negri and Hardt's antiquated notion of a “multitude,” but a set of isolated individuals incapable of forming a “we,” incapable of calling dominant power relations into question, incapable of formulating a future because of an obsession with the present. The digital swarm is a fragmented entity that can focus on individual persons only in order to make them an object of scandal. Han, one of the most widely read philosophers in Europe today, describes a society in which information has overrun thought, in which the same algorithms are employed by Facebook, the stock market, and the intelligence services. Democracy is under threat because digital communication has made freedom and control indistinguishable. Big Brother has been succeeded by Big Data.}
+      \field{day}{7}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{series}{Untimely {{Meditations}}}
+      \field{shorttitle}{In the {{Swarm}}}
+      \field{title}{In the {{Swarm}}: {{Digital Prospects}}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.7551/mitpress/11055.001.0001
+      \endverb
+      \verb{file}
+      \verb /home/as/Documents/Zotero/storage/T22P4ZF6/Han - 2017 - In the Swarm Digital Prospects.pdf
+      \endverb
+    \endentry
+    \entry{noeEntanglement2023}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=87f4a7668bec37933dc2ef8b48881dfb}{%
+           family={Noë},
+           familyi={N\bibinitperiod},
+           given={Alva},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Princeton Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Princeton UP}%
+      }
+      \strng{namehash}{87f4a7668bec37933dc2ef8b48881dfb}
+      \strng{fullhash}{87f4a7668bec37933dc2ef8b48881dfb}
+      \strng{fullhashraw}{87f4a7668bec37933dc2ef8b48881dfb}
+      \strng{bibnamehash}{87f4a7668bec37933dc2ef8b48881dfb}
+      \strng{authorbibnamehash}{87f4a7668bec37933dc2ef8b48881dfb}
+      \strng{authornamehash}{87f4a7668bec37933dc2ef8b48881dfb}
+      \strng{authorfullhash}{87f4a7668bec37933dc2ef8b48881dfb}
+      \strng{authorfullhashraw}{87f4a7668bec37933dc2ef8b48881dfb}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Why human nature is an aesthetic phenomenon—and why we need art and philosophy to understand ourselvesIn The Entanglement, philosopher Alva Noë explores the inseparability of life, art, and philosophy, arguing that we have greatly underestimated what this entangled reality means for understanding human nature.Life supplies art with its raw materials, but art, Noë argues, remakes life by giving us resources to live differently. Our lives are permeated with the aesthetic. Indeed, human nature is an aesthetic phenomenon, and art—our most direct and authentic way of engaging the aesthetic—is the truest way of understanding ourselves. All this suggests that human nature is not a natural phenomenon. Neither biology, cognitive science, nor AI can tell a complete story of us, and we can no more pin ourselves down than we can fix or settle on the meaning of an artwork. Even more, art and philosophy are the means to set ourselves free, at least to some degree, from convention, habit, technology, culture, and even biology. In making these provocative claims, Noë explores examples of entanglement—in artworks and seeing, writing and speech, and choreography and dancing—and examines a range of scientific efforts to explain the human.Challenging the notions that art is a mere cultural curiosity and that philosophy has been outmoded by science, The Entanglement offers a new way of thinking about human nature, the limits of natural science in understanding the human, and the essential role of art and philosophy in trying to know ourselves}
+      \field{langid}{english}
+      \field{pagetotal}{1}
+      \field{shorttitle}{The {{Entanglement}}}
+      \field{title}{The {{Entanglement}}: {{How Art}} and {{Philosophy Make Us What We Are}}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1515/9780691239293
+      \endverb
+      \verb{file}
+      \verb /home/as/Documents/Zotero/storage/S2C7B9WZ/Noë - 2023 - The Entanglement how art and philosophy make us what we are.pdf
+      \endverb
+      \keyw{art,being human,philosophy,philosophy of mind}
+    \endentry
+    \entry{seeleyAttentional2020}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bca47724bdea6242f89034c00d9eb917}{%
+           family={Seeley},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima P.},
+           giveni={W\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford UP}%
+      }
+      \strng{namehash}{bca47724bdea6242f89034c00d9eb917}
+      \strng{fullhash}{bca47724bdea6242f89034c00d9eb917}
+      \strng{fullhashraw}{bca47724bdea6242f89034c00d9eb917}
+      \strng{bibnamehash}{bca47724bdea6242f89034c00d9eb917}
+      \strng{authorbibnamehash}{bca47724bdea6242f89034c00d9eb917}
+      \strng{authornamehash}{bca47724bdea6242f89034c00d9eb917}
+      \strng{authorfullhash}{bca47724bdea6242f89034c00d9eb917}
+      \strng{authorfullhashraw}{bca47724bdea6242f89034c00d9eb917}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract What is it about art that can be so captivating? How is it that we find value in these often odd and abstract objects and events that we call artworks? My proposal is that artworks are attentional engines. They are artifacts that have been intentionally designed to direct attention to critical stylistic features that reveal their point, purpose, or meaning. My suggestion is that there is a lot that we can learn about art from interdisciplinary research focused on our perceptual engagement with artworks. These kinds of studies can reveal how we recognize artworks, how we differentiate them from other, more quotidian artifacts. In doing so they reveal how artworks function as a unique source of value. Our interactions with artworks draw on a broad base of shared artistic and cultural constitutive of different categories of art. Cognitive systems integrate this information into our experience of art, guiding attention, and shaping what we perceive. Our understanding and appreciation of artworks is therefore carried in our perceptual experience of them. Teasing out how this works can contribute valuable information to our philosophical understanding of art. Attentional Engines explores this interdisciplinary strategy for understanding art. It articulates a cognitivist theory of art grounded in perceptual psychology and the neuroscience attention and demonstrates its application to a range of puzzles in the philosophy of the arts, including questions about the nature of depiction, the role played by metakinesis in dance appreciation, the nature of musical expression, and the power of movies.}
+      \field{day}{30}
+      \field{edition}{1}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shorttitle}{Attentional {{Engines}}}
+      \field{title}{Attentional {{Engines}}: {{A Perceptual Theory}} of the {{Arts}}}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1093/oso/9780190662158.001.0001
+      \endverb
+      \verb{file}
+      \verb /home/as/Documents/Zotero/storage/8H9W3LAU/oso-9780190662158-chapter-3.pdf;/home/as/Documents/Zotero/storage/CCE25SVC/Seeley - 2020 - Attentional Engines A Perceptual Theory of the Arts.pdf;/home/as/Documents/Zotero/storage/HQF9D24P/Seeley - 2020 - Attentional engines A Perceptual Theory of the Arts.pdf;/home/as/Documents/Zotero/storage/IJC9KFL2/Seeley - 2020 - Concepts and Categories of Art A Very Brief Primer.pdf
+      \endverb
+    \endentry
+    \entry{winnerHow2019}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=26c53415bb325338f15aef12fc492314}{%
+           family={Winner},
+           familyi={W\bibinitperiod},
+           given={Ellen},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York (N.Y.)}%
+      }
+      \list{publisher}{1}{%
+        {Oxford U press}%
+      }
+      \strng{namehash}{26c53415bb325338f15aef12fc492314}
+      \strng{fullhash}{26c53415bb325338f15aef12fc492314}
+      \strng{fullhashraw}{26c53415bb325338f15aef12fc492314}
+      \strng{bibnamehash}{26c53415bb325338f15aef12fc492314}
+      \strng{authorbibnamehash}{26c53415bb325338f15aef12fc492314}
+      \strng{authornamehash}{26c53415bb325338f15aef12fc492314}
+      \strng{authorfullhash}{26c53415bb325338f15aef12fc492314}
+      \strng{authorfullhashraw}{26c53415bb325338f15aef12fc492314}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{"How Art Works explores puzzles that have preoccupied philosophers as well as the general public: Can art be defined? How do we decide what is good art? Why do we gravitate to sadness in art? Why do we devalue a perfect fake? Could 'my kid have done that'? Does reading fiction enhance empaty? Drawing on careful pbservations, probing intreviews, and clever experiments, Ellen Winner reveals surprising answers to these and other artistic mysteries."--Jacket}
+      \field{langid}{english}
+      \field{shorttitle}{How {{Art Works}}}
+      \field{title}{How {{Art Works}}: A {{Psychological Exploration}}}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \keyw{art,cognitive science,philosophy,philosophy of mind,psychology}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
