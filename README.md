@@ -1,4 +1,4 @@
-# Readme File
+# IS Essay Readme File
 
 This repository houses my IS paper. The most important files are:
 
