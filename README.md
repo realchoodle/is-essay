@@ -27,6 +27,7 @@ window.
 - [ ] Add more on Noë on philosophy and science (background for public sphere)
 - [ ] Clarify relevance of freedom and determinism argument
 - [ ] Clarify freedom and determinism argument
+- [ ] Finish the essay
 
 ### Low Priority
 
