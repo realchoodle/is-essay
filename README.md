@@ -18,10 +18,10 @@ files because they are not a plain text format. However, they do work nicely for
 
 - [ ] Clarify public sphere as lower order
 - [x] Rework introduction example or puzzle (rework introduction)
-- [ ] Change focus to cognitive science per se
+- [x] Change focus to include cognitive science per se
 - [ ] Clarify dance and Dance looping down
 - [ ] Clarify origin of "critical questions"
-- [ ] Add more on Noë on philosophy and science (background for public sphere)
+- [x] Add more on Noë on philosophy and science (background for public sphere)
 - [ ] Clarify relevance of freedom and determinism argument
 - [ ] Clarify freedom and determinism argument
 - [ ] Finish the essay
@@ -30,9 +30,9 @@ files because they are not a plain text format. However, they do work nicely for
 
 - [x] Clarify spectrum claim
 - [ ] Discuss postmodernism versus modernism generally
-- [ ] Add examples of traditions postmodern dance uses
+- [x] Add examples of traditions postmodern dance uses
 - [ ] Add discussion of metamodernism to N+1 argument
-- [ ] Clarify public sphere's origin
+- [x] Clarify public sphere's origin
 
 ## Note on LaTeX Syntax
 
