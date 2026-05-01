@@ -28,7 +28,7 @@ files because they are not a plain text format. However, they do work nicely for
 
 ### Low Priority
 
-- [ ] Clarify spectrum claim's origin
+- [x] Clarify spectrum claim
 - [ ] Discuss postmodernism versus modernism generally
 - [ ] Add examples of traditions postmodern dance uses
 - [ ] Add discussion of metamodernism to N+1 argument
