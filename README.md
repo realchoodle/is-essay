@@ -17,7 +17,7 @@ files because they are not a plain text format. However, they do work nicely for
 ### High Priority
 
 - [ ] Clarify public sphere as lower order
-- [ ] Rework introduction example or puzzle
+- [x] Rework introduction example or puzzle (rework introduction)
 - [ ] Change focus to cognitive science per se
 - [ ] Clarify dance and Dance looping down
 - [ ] Clarify origin of "critical questions"
