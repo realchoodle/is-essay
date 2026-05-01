@@ -1,34 +1,17 @@
 % !TeX program = xelatex
 % !BIB program = biber
 \documentclass[12pt,letterpaper]{article}
-\usepackage{fontspec}
-\setmainfont{Liberation Serif} % Metric compatible with Times New Roman
-\usepackage[margin=1in]{geometry}
-\usepackage{setspace}
-\doublespacing 
-\usepackage{indentfirst} 
-\usepackage[american]{babel}
-\usepackage{csquotes}
-\usepackage[style=mla, backend=biber]{biblatex}
-\addbibresource{bib.bib} % Bibliography file
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{} 
-\fancyhead[R]{Last \thepage}
-\renewcommand{\headrulewidth}{0pt} % Remove header line
-\setlength{\bibhang}{0.5in} % Make Works Cited use half-inch indents
+\input{preamble.tex} % Packages and settings
 
 \begin{document}
-\begin{flushleft}
-    First Last\\
-    Professor\\
-    Aesthetics and Imagination\\
-    19 April 2026
-\end{flushleft}
 
-\begin{center}
-    Art, Cognition, and Entangled Domains
-\end{center}
+\noindent First Last\\
+Professor\\
+Aesthetics and Imagination\\
+19 April 2026
+
+% Center environment adds unwanted vertical padding
+{\centering Art, Cognition, and Entangled Domains\par}
 
 % --- Content ---
 \raggedright
@@ -193,10 +176,6 @@ already informed by the second-order, we are left with some critical questions:
 what was the first-order all along? Are first-order selves, practices, or
 concepts even possible?
 
-% two probs: priority and an absolute origin two probs above are kind of
-% actually one problem do I need this phrasing? My main issue with these terms
-% is that they imply something temporal, absolute (not relative), and possibly
-% that entangled things art particular objects/concepts
 It is telling that Noë largely moves away from the language of first- and
 second-orders as \textit{The Entanglement} progresses. These terms are
 illustrative, but they simplify and distort the entanglement in two ways: first,
@@ -209,16 +188,15 @@ belonging to the first-order could suggest a kind of origin. Despite this, the
 entanglement is incompatible with any sort of stable and historical essence
 \autocite[32]{noeEntanglement2023}.
 
-% Recursivity -> domains -> Arendtian political domains
 To be sure, the language of first- and second-orders is flawed. Regardless, the
 source of these flaws is a notable, albeit implicit, feature of the
 entanglement: recursivity. As mentioned above, an essential part of going
-second-order is putting the first-order on display; in doing so, it ``enables us
-to do it all differently'' \autocite[42]{noeEntanglement2023}. This was apparent
-in the case of dance and Dance. My contribution, here, is to point out that
-Dance's status as ``second-order'' is a relative, rather than absolute or
-inherent, property; Dance is only second-order in relation to dance. However,
-nothing about Dance per se is second-order.
+second-order is putting the first-order on display; in doing so, it ``enables
+us to do it all differently'' \autocite[42]{noeEntanglement2023}. This was
+apparent in the case of dance and Dance. My contribution, here, is to point out
+that Dance's status as ``second-order'' is a relative, rather than absolute or
+inherent, property; Dance is only ``second-order'' in relation to dance.
+However, nothing about Dance per se is second-order.
 
 For example, consider postmodern art. Within a given artistic practice, one is
 likely to encounter postmodernist variations and traditions. Take, for instance,
@@ -235,15 +213,30 @@ dance \autocite[151]{banesPostmodern1997}.
 
 Within Dance, postmodern choreography reacts to other styles of Dance and puts
 them on display; it calls on and incorporates other traditions and disciplines,
-changing itself in the process \autocite[154]{banesPostmodern1997}. Postmodern
-Dance is informed by the rest of Dance in a reflective, self-aware manner.
-Thus, postmodern choreography goes second-order within Dance, a practice which
-itself belongs to the second-order. This is not to say that modernist, or any
-other other styles of Dance, are somehow unthinking or lesser; at a minimum,
-modernist choreography and lowercase ``d'' dance are entangled. Moreover, as
-previously discussed, ``first-order'' concepts are not naïve. Rather, the point
-of this example is to demonstrate that entanglements can be recursive or nested;
-the entanglement of dance and Dance was just the beginning.
+changing itself in the process. As Banes points out:
+
+\begin{quote}
+    In the nineties, in particular, as issues of ethnic, gender, and sexual
+    identity came to the fore in political conflicts in everyday life,
+    postmodern dance embraced multiculturalism, focusing on the conscious
+    articulation of difference in regard to these issues. To be sure, some
+    issues of political identity have been and continue to be explored and
+    celebrated in dance in a more traditional way ... But in the nineties it
+    became clear that many dancers identified themselves as bicultural in a
+    specifically avant-garde mode: black and postmodern; Latino and postmodern;
+    Asian American and postmodern; gay and postmodern.
+    \autocite[154]{banesPostmodern1997}
+\end{quote}
+
+Hence, postmodern Dance is informed by the rest of Dance in a manner similar to
+the influence dance has over Dance as whole Thus, postmodern choreography goes
+second-order within Dance, a practice which itself belongs to the second-order.
+This is not to say that modernist, or any other other styles of Dance, are
+somehow unthinking or lesser; at a minimum, modernist choreography and lowercase
+``d'' dance are entangled. Moreover, as previously discussed, ``first-order''
+concepts are not naïve. Rather, the point of this example is to demonstrate that
+entanglements can be recursive or nested; the entanglement of dance and Dance
+was just the beginning.
 
 % I forgot about my attempt to actually define what the first order is...
 From the arguments above, I draw two conclusions: first, instead of restricting
