@@ -16,10 +16,10 @@ files because they are not a plain text format. However, they do work nicely for
 
 ### High Priority
 
-- [ ] Clarify public sphere as lower order
+- [x] Clarify public sphere as lower order
 - [x] Rework introduction example or puzzle (rework introduction)
 - [x] Change focus to include cognitive science per se
-- [ ] Clarify dance and Dance looping down
+- [x] Clarify dance and Dance looping down
 - [ ] Clarify origin of "critical questions"
 - [x] Add more on Noë on philosophy and science (background for public sphere)
 - [ ] Clarify relevance of freedom and determinism argument
