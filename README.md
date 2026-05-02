@@ -20,19 +20,19 @@ files because they are not a plain text format. However, they do work nicely for
 - [x] Rework introduction example or puzzle (rework introduction)
 - [x] Change focus to include cognitive science per se
 - [x] Clarify dance and Dance looping down
-- [ ] Clarify origin of "critical questions"
 - [x] Add more on Noë on philosophy and science (background for public sphere)
-- [ ] Clarify relevance of freedom and determinism argument
-- [ ] Clarify freedom and determinism argument
+- [x] Clarify relevance of freedom and determinism argument
+- [x] Clarify freedom and determinism argument
 - [ ] Finish the essay
 
 ### Low Priority
 
 - [x] Clarify spectrum claim
-- [ ] Discuss postmodernism versus modernism generally
-- [x] Add examples of traditions postmodern dance uses
-- [ ] Add discussion of metamodernism to N+1 argument
 - [x] Clarify public sphere's origin
+- [x] Add examples of traditions postmodern dance uses
+- [ ] Discuss postmodernism versus modernism generally
+- [ ] Add discussion of metamodernism to N+1 argument
+- [ ] Clarify origin of "critical questions"
 
 ## Note on LaTeX Syntax
 
